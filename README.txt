@@ -1,4 +1,4 @@
-Schematics and Code for Arduino Lego Tank
+Schematics and Code for Arduino Lego Tank (~May 2014)
 See video: https://www.youtube.com/watch?v=Q-kdP2roqwU
 
 You will need to download the digitalWriteFast for Arduino:
